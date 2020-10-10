@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="179308" started-at="2020-07-29T22:28:17 EDT" finished-at="2020-07-29T22:31:16 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="179308" started-at="2020-07-29T22:28:17 EDT" finished-at="2020-07-29T22:31:16 EDT">
+      <class name="com.qa.hotels.tests.TestCase1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hotels.tests.TestCase1@131276c2]" name="setUp" is-config="true" duration-ms="8861" started-at="2020-07-29T22:28:17 EDT" finished-at="2020-07-29T22:28:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySearchPageTitle()[pri:1, instance:com.qa.hotels.tests.TestCase1@131276c2]" name="verifySearchPageTitle" duration-ms="61" started-at="2020-07-29T22:28:25 EDT" finished-at="2020-07-29T22:28:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchPageTitle -->
+        <test-method status="PASS" signature="searchThreeStarsHilton()[pri:2, instance:com.qa.hotels.tests.TestCase1@131276c2]" name="searchThreeStarsHilton" duration-ms="170227" started-at="2020-07-29T22:28:26 EDT" finished-at="2020-07-29T22:31:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchThreeStarsHilton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hotels.tests.TestCase1@131276c2]" name="tearDown" is-config="true" duration-ms="135" started-at="2020-07-29T22:31:16 EDT" finished-at="2020-07-29T22:31:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hotels.tests.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
